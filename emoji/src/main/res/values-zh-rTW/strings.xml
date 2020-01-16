@@ -1,0 +1,5 @@
+<resources>
+    <string name="msg_no_recent_emoji">沒有最近的貼圖</string>
+    <string name="alert_title_default_skin_tone">預設主題</string>
+    <string name="msg_reactions" translatable="false">反應</string>
+</resources>
